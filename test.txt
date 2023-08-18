@@ -1,3 +1,4 @@
 Title
 - Ini project pertama yang akan menggunakan github
 - membuat project terhubung
+- Kedepannya akan membuat project kerja lebih banyak
